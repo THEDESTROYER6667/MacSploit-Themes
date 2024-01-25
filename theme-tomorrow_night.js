@@ -60,7 +60,7 @@ define("ace/theme/tomorrow_night", ["require", "exports", "module", "ace/lib/dom
       
       .ace-tomorrow_night-theme .ace_selected-word {
         border: none;
-        background-color: #FFEF00;
+        background-color: #009814;
       }
       
       .ace-tomorrow_night-theme .ace_invisible {
