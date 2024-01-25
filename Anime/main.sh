@@ -8,5 +8,4 @@ main() {
   echo -e "If your executor is open, make sure to quit and reopen it."
   echo -e "Ribbit!"
 }
-
 main
