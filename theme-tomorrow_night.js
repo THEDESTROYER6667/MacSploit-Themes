@@ -25,7 +25,7 @@ define("ace/theme/tomorrow_night", ["require", "exports", "module", "ace/lib/dom
       }
       
       .ace-tomorrow_night-theme .ace_selection {
-        background-color: #FF0000;
+        background-color: #00FF22;
         opacity: 0.4;
       }
       
